@@ -6,6 +6,7 @@ public class Computer
     private long ram;
     private long harddisk;
     private String display;
+    private int frequency;
  
 
     
