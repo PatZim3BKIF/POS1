@@ -11,6 +11,20 @@ Material und Code zum Unterricht
 
 ## Java:
 
+2023-09-11
+
+-   Methoden werden aufgerufen
+-   haben eine "Signatur"
+-   returnen einen Wert (oder nicht: void)
+-   bekommen "Parameter" mit
+-   git clone / pull
+-   Datentypen: int (Integer.MAX_VALUE, ) Vorsicht: evtl. "Overflow"
+-   long
+-   Variablen haben einen Namen
+-   .. und unterschiedliche Datentypen (Zahl, Text, Wahrheit)
+
+2023-09-07
+
 -   Kommentare: Block /_ ... _/
 -   Kommen. Zeile: //
 -   eine Klasse / viele Instanzen (synonym Objekte)
