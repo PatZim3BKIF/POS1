@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=farbe\ marke\ ps
+comment1.target=Auto(java.lang.String,\ java.lang.String,\ int)
+comment2.params=farbe
+comment2.target=Auto(java.lang.String)
+comment3.params=farbe\ ps
+comment3.target=Auto(java.lang.String,\ int)
+comment4.params=ps\ marke
+comment4.target=Auto(int,\ java.lang.String)
+comment5.params=neuMarke
+comment5.target=void\ setMarke(java.lang.String)
+comment6.params=ps
+comment6.target=void\ setPS(int)
+comment7.params=farbe
+comment7.target=void\ setFarbe(java.lang.String)
+numComments=8
