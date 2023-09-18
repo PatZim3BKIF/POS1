@@ -47,7 +47,7 @@ public class Auto
     }
     
     public void setPS(int ps) {
-        if(ps > 30 && ps < 300) {
+        if(ps >= 30 && ps <= 300) {
             this.ps = ps;
         } else {
             throw new IllegalArgumentException("FEHLER: Die PS liegen unter 30 oder über 300");
