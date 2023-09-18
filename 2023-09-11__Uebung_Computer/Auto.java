@@ -12,16 +12,20 @@ public class Auto
 
     public Auto (String farbe) {
         setFarbe(farbe);
+        setMarke("Skoda");
+        setPS(250);
     }
     
     public Auto (String farbe, int ps) {
         setFarbe(farbe);
         setPS(ps);
+        setMarke("Audi");
     }
     
     public Auto (int ps, String marke) {
         setPS(ps);
         setMarke(marke);
+        setFarbe("rot");
     }
     
     public void setMarke (String neuMarke) {
